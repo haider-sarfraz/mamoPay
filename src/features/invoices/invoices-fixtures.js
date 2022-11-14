@@ -1,0 +1,67 @@
+export const DATA = [
+  {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Outstanding',
+    "createdAt": '25/04/2021',
+  },
+  {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Outstanding',
+    "createdAt": '25/04/2021',
+  },
+  {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Outstanding',
+    "createdAt": '25/04/2021',
+  },
+  {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Outstanding',
+    "createdAt": '25/04/2021',
+  },
+  {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Cancelled',
+    "createdAt": '25/04/2021',
+  }, {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Paid',
+    "createdAt": '25/04/2021',
+  }, {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Paid',
+    "createdAt": '25/04/2021',
+  }, {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Paid',
+    "createdAt": '25/04/2021',
+  }, {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Paid',
+    "createdAt": '25/04/2021',
+  }, {
+    "invoiceID": '4574232-0001',
+    "customer": 'Asma Alyamani',
+    "amount": 'AED 150.00',
+    "status": 'Paid',
+    "createdAt": '25/04/2021',
+  },
+]

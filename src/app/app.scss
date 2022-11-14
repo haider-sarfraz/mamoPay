@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .modal-overlay {
+    @apply flex items-center justify-center fixed inset-0 bg-modal-overlay;
+  }
+  .modal-wrapper {
+    @apply relative flex items-center justify-center w-full h-full;
+  };
+
+  .modal-content {
+    @apply bg-mamo-white-500;
+    @apply overflow-y-auto outline-0 rounded-lg;
+    @apply w-full h-full sm:w-[72%] sm:h-modal md:max-w-[684px];
+    @apply p-5 pt-20 sm:py-10 sm:px-10 xl:py-12;
+  }
+  .modal-close-icon {
+    @apply absolute top-5 right-5 sm:top-4 sm:right-8;
+    @apply sm:box-content sm:w-4.5 sm:h-4.5 sm:p-2.5 sm:rounded-full bg-mamo-white-500 text-black-500;
+  }
+}
